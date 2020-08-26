@@ -1,0 +1,17 @@
+{
+    "name": "ideenmolavi.clog.editor",
+    "references": [
+        "GUID:aca3ee50e821034438388041e82351f4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

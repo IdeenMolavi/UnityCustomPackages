@@ -1,0 +1,19 @@
+{
+  "name": "com.ideen.clog",
+  "version": "1.0.0",
+  "displayName": "Clog",
+  "description": "Unity Debug class with option to select witch log category display in console.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "Debug",
+    "Log"
+  ],
+  "author": {
+    "name": "Ideen Molavi",
+    "email": "ideenmolavi@gmail.com",
+    "url": "https://www.ideenmolavi.com"
+  }
+}
