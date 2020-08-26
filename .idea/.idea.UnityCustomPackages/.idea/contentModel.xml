@@ -8,13 +8,14 @@
         <e p="Custom Packages" t="Include">
           <e p="CLog" t="Include">
             <e p="Editor" t="Include">
+              <e p="CLogMenuItem.cs" t="Include" />
               <e p="ideenmolavi.clog.editor.asmdef" t="Include" />
               <e p="SerializableDictionaryPropertyDrawer.cs" t="Include" />
             </e>
             <e p="Runtime" t="Include">
               <e p="CLog.cs" t="Include" />
-              <e p="CLogData.cs" t="Include" />
               <e p="ideenmolavi.clog.asmdef" t="Include" />
+              <e p="LogData.cs" t="Include" />
               <e p="SerializableDictionary.cs" t="Include" />
               <e p="SerializableHashSet.cs" t="Include" />
             </e>

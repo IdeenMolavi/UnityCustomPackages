@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dba502e-bc02-4d61-9e5d-44e5bf42a904" name="Default Changelist" comment="" />
+    <list default="true" id="8dba502e-bc02-4d61-9e5d-44e5bf42a904" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Editor/CLogMenuItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Editor/CLogMenuItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Runtime/LogData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Runtime/LogData.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Runtime/CLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Runtime/CLog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Runtime/CLogData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Custom Packages/CLog/Runtime/CLogData.cs.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,21 +37,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Custom Packages/CLog/Editor/CLogMenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73D57CEF-CD7C-4FD1-B35D-52187ECFC010/c0/02665ff9/MenuItem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Custom Packages/CLog/Editor/SerializableDictionaryPropertyDrawer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Custom Packages/CLog/package.json" />
+        <option value="$PROJECT_DIR$/Assets/Custom Packages/CLog/Editor/CLogMenuItem.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1gdbyY23Y0SmHJENIYYqTVKXDtk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -93,8 +108,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598450762564">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1598450762564" />
   </component>
 </project>
