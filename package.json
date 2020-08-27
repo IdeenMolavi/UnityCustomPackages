@@ -1,5 +1,5 @@
 {
-  "name": "com.RohaumGameStudio.clog",
+  "name": "com.rohaumgamestudio.clog",
   "version": "1.0.1",
   "displayName": "CLog",
   "description": "Unity Debug class with option to select witch log category display in console.",
