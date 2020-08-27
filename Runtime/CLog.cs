@@ -5,7 +5,7 @@ using UnityEngine;
 using UDebug = UnityEngine.Debug;
 using UObject = UnityEngine.Object;
 
-namespace LazySamurais.Common
+namespace Rohaum.Common.Debug
 {
     public static class CLog
     {
