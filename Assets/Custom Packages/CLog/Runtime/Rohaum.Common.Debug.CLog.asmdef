@@ -1,11 +1,7 @@
 {
-    "name": "ideenmolavi.clog.editor",
-    "references": [
-        "GUID:aca3ee50e821034438388041e82351f4"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "Rohaum.Common.Debug.CLog",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

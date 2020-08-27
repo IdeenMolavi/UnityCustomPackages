@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace LazySamurais.Common
+namespace Rohaum.Common.Debug
 {
     [CreateAssetMenu(fileName = CLog.FILE_NAME, menuName = "Scriptable Objects/Clog Filters", order = 1)]
     [Serializable]

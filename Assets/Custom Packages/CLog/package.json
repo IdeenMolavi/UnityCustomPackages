@@ -1,7 +1,7 @@
 {
-  "name": "com.ideen.clog",
-  "version": "1.0.0",
-  "displayName": "Clog",
+  "name": "com.RohaumGameStudio.clog",
+  "version": "1.0.1",
+  "displayName": "CLog",
   "description": "Unity Debug class with option to select witch log category display in console.",
   "unity": "2019.1",
   "unityRelease": "0b5",
@@ -12,8 +12,8 @@
     "Log"
   ],
   "author": {
-    "name": "Ideen Molavi",
+    "name": "Rohaum Game Studio",
     "email": "ideenmolavi@gmail.com",
-    "url": "https://www.ideenmolavi.com"
+    "url": "https://www.RohaumGameStudio.com"
   }
 }

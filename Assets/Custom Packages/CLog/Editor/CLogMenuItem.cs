@@ -1,19 +1,20 @@
-﻿using LazySamurais.Common;
-using UnityEditor;
-using UnityEngine;
+﻿using UnityEditor;
 
-public class CLogMenuItem : EditorWindow
+namespace Rohaum.Common.Debug.Editor
 {
-    [MenuItem("Tools/Show CLog Filters")]
-    static void ShowClogData()
+    public class CLogMenuItem : EditorWindow
     {
-        LogData dataFile = CLog.LoadDataFile();
-        if (dataFile == null)
+        [MenuItem("Tools/Show CLog Filters")]
+        static void ShowClogData()
         {
-            CLog.CreateDataFile();
-            dataFile = CLog.LoadDataFile();
-        }
+            LogData dataFile = CLog.LoadDataFile();
+            if (dataFile == null)
+            {
+                CLog.CreateDataFile();
+                dataFile = CLog.LoadDataFile();
+            }
 
-        Selection.activeObject = dataFile;
+            Selection.activeObject = dataFile;
+        }
     }
 }
